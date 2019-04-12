@@ -1,0 +1,9 @@
+
+^squid:S2095e"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì
+^squid:S20958"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì
+^squid:S2095y"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì
+jsquid:S2153µ"FRemove the boxing to "Long"; The argument is already of the same type.(Ç›Õÿøÿÿÿÿ8¹‘ğ¶-
+fsquid:S2095¤"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(´‘´Ï8Ÿöœ·-
+fsquid:S1192C"JDefine a constant instead of duplicating this literal "Exception" 8 times.(¢¼§¥üÿÿÿÿ
+esquid:S2095Y"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8—…’ï -
+esquid:S2095M"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8«”ï -

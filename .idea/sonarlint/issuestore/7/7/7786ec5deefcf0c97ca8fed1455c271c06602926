@@ -1,0 +1,4 @@
+
+}squid:S2178-"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ÐÓãÎ
+rsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(¿°µéÿÿÿÿÿ
+bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ŸïÙÜ

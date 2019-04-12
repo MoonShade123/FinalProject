@@ -1,0 +1,7 @@
+
+‰squid:S2178("fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ÿ¬¦‹üÿÿÿÿ8ÖÔ¬‚œ-
+Msquid:S1068"0Remove this unused "patternEmail" private field.(²´û78ÖÔ¬‚œ-
+Usquid:S1068"2Remove this unused "patternSurname" private field.(Õ¶œ½øÿÿÿÿ8ÖÔ¬‚œ-
+Qsquid:S1068"3Remove this unused "patternUsername" private field.(¤ª»Ž8ÖÔ¬‚œ-
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(û”ÿ×øÿÿÿÿ8ÖÔ¬‚œ-
+Tsquid:S1068"6Remove this unused "patternMobilePhone" private field.(‡–êÈ8ÖÔ¬‚œ-

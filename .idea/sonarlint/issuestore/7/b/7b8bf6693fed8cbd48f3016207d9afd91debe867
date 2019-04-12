@@ -1,0 +1,6 @@
+
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ğ³Šƒøÿÿÿÿ
+dsquid:S2095E"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŠÙŠúÿÿÿÿ
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(å“¤
+]squid:S2142x"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(à‹Ô®şÿÿÿÿ

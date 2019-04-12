@@ -1,0 +1,9 @@
+
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(¢æ£©üÿÿÿÿ8é×¬õ‹-
+msquid:S11929"JDefine a constant instead of duplicating this literal "Exception" 5 times.(¢¼§¥üÿÿÿÿ8é×¬õ‹-
+Ksquid:S1068"(Remove this unused "ROLE" private field.(ä¯Þ¿üÿÿÿÿ8é×¬õ‹-
+esquid:S2095B"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8é×¬õ‹-
+fsquid:S2095„"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÿøö°8é×¬õ‹-
+esquid:S2095N"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8é×¬õ‹-
+esquid:S2095a"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8é×¬õ‹-
+esquid:S20951"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8é×¬õ‹-

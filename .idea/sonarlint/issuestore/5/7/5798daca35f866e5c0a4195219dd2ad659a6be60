@@ -1,0 +1,10 @@
+
+msquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ÇÏ±‰
+Lsquid:S1068")Remove this unused "EMAIL" private field.(þªçýüÿÿÿÿ8˜½®ï -
+@squid:S1481>")Remove this unused "page" local variable.(¶º–Ž
+Psquid:S1068"-Remove this unused "USER_ROLE" private field.(ºŽÕ¶øÿÿÿÿ8˜½®ï -
+Usquid:S1068"8Remove this unused "SECONDNAME_ATTRIBUTE" private field.(­Éë8˜½®ï -
+\squid:S1068"9Remove this unused "PASSPORT_ID_ATTRIBUTE" private field.(ÝìË˜øÿÿÿÿ8˜½®ï -
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹»ÿ¦ùÿÿÿÿ
+Usquid:S1068"2Remove this unused "NAME_ATTRIBUTE" private field.(±¨Ö„ûÿÿÿÿ8˜½®ï -
+Ssquid:S1068"5Remove this unused "SURNAME_ATTRIBUTE" private field.(ú–Û8˜½®ï -

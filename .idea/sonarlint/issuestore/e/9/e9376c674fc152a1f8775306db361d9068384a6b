@@ -1,0 +1,7 @@
+
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ãµùƒœ-
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8§û„œ-
+gsquid:S2147="DCombine this catch with the one at line 59, which has the same body.(Ù£­—ÿÿÿÿÿ8ãµùƒœ-
+jsquid:S1192."GDefine a constant instead of duplicating this literal "SE exc" 3 times.(¡íñÒûÿÿÿÿ8ô•ù‚œ-
+Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¥¨„œ-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ãµùƒœ-

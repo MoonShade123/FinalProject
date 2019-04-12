@@ -1,0 +1,11 @@
+
+@squid:S1481n")Remove this unused "rows" local variable.(Ä¦˜Ü
+Dsquid:S1068"-Remove this unused "USER_ROLE" private field.(ÀÁŸû
+fsquid:S1192K"JDefine a constant instead of duplicating this literal "Exception" 3 times.(¢¼§¥üÿÿÿÿ
+Bsquid:S11687"+Return an empty collection instead of null.(¥¹ï
+@squid:S1481a")Remove this unused "rows" local variable.(Ä¦˜Ü
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É•‚Ç
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ®µ-
+^squid:S2095,"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì
+^squid:S2095@"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ®µ-
